@@ -675,8 +675,6 @@ h3, h4, h2, h5, p, li{
 
 .last__page {
 }
-._container {
-}
 .last__page__btns {
     display: flex;
     justify-content: space-around;
@@ -859,8 +857,7 @@ h3, h4, h2, h5, p, li{
 .slider_body {
     overflow: hidden;
 }
-._container {
-}
+
 .slider_row {
     display: flex;
     width: 2000px;

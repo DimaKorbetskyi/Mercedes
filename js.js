@@ -38,6 +38,5 @@ document.addEventListener('click', (e)=>{
     if (e.target === popupBg || e.target === closePopup){
         popupBg.classList.remove('active'),
         popupContent.classList.remove('active')
-        console.log('Hello')
     }
 })
